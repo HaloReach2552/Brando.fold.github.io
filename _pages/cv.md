@@ -18,7 +18,7 @@ Education
 
 Lastest proyects
 ======
-* I had the opportunity to participate in a Hackathan by the **BCP**. My task consisted of a analysis described. 
+* I had the opportunity to participate in a Hackathan by the [BCP](https://www.viabcp.com/). My task consisted of a analysis described. 
 
 Skills
 ======
