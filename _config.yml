@@ -85,7 +85,7 @@ author:
   bio              : "Sociology student at PUCP university."
   location         : "Lima, Perú"
   employer         :
-  email            :
+  email            : "a20163041@pucp.edu.pe"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,13 +101,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Alex_QR_CG"
+  twitter          : #"xxxxx-xxxxx"
   vine             :
   weibo            :
   xing             :
