@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
+
 * Here I leave my cv. Click on this link ().
 
 Education
