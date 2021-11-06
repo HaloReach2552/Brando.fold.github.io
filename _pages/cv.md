@@ -15,13 +15,13 @@ Education
 
 Lastest proyects
 ======
-  
+* I had the opportunity to participate in a Hackathan by the **BCP**. I 
 Skills
 ======
-* Skill 1
-* ----------
-* Skill 2
-  * Sub-skill 2.1
+* Skill 1 related to technology 
+* able to understand Python and R programming at basic level. 
+* Skill 2 related to mathematics
+  * 
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
