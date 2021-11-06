@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Quispe"
+title                    : "Erik Morales"
 title_separator          : "-"
-name                     : &name "Alexander Quispe"
-description              : &description "World Bank Research Analyst. Causal inference and Machine Learning."
+name                     : &name "Erik Morales"
+description              : &description "Sociology student at PUCP University."
 url                      : https://alexanderquispe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexanderquispe/alexanderquispe.github.io"
