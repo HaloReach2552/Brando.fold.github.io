@@ -1,6 +1,6 @@
 ---
 title: "1. How to build a Bootstrap"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "In this part of the code I created, I am going to explain how the bootstrap method is useful to make estimations on Standar Errors and more.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
