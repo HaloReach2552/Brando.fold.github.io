@@ -6,9 +6,4 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-```python
-import pandas as pd
-import numpy as np
-import matplotlib as plt
-```
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/Boot.PNG'>
