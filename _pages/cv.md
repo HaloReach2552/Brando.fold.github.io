@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-* Here I leave my cv. Click on this link and you will be able to <u><a href="https://github.com/HaloReach2552/Brando.fold.github.io/blob/main/files/ERIK_CV.pdf">download it here.</a></u> download it here
+* Here I leave my cv. Click on this link and you will be able to <u><a href="https://github.com/HaloReach2552/Brando.fold.github.io/blob/main/files/ERIK_CV.pdf">download it here.</a></u>
 
 Education
 ======
