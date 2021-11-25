@@ -5,5 +5,6 @@ date: "2021-11-12"
 collection: portfolio
 paperurl: "https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/Bootstrap.ipynb"
 ---
+<br/><img src='/images/500x300.png'>
 
 [Visit this page](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/Bootstrap.ipynb)
