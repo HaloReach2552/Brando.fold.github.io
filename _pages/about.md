@@ -14,9 +14,7 @@ About me: <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 * Here I leave my repository 👉 Link: [haloreach2552.github.com](https://github.com/HaloReach2552/Data_repository)
 * 📫 How to reach me: a20163041@pucp.edu.pe
 
-![Github logo](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)<p align="right">
-  <img src="https://static.wixstatic.com/media/52242b_62b730e73bbd4d68876cbe30051d709e~mv2.gif" alt="animated" />
-</p>
+![Github logo](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)![gif](https://static.wixstatic.com/media/52242b_62b730e73bbd4d68876cbe30051d709e~mv2.gif)
 
 
 Top Technologies:
