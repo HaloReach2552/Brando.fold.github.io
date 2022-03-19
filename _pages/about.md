@@ -19,6 +19,4 @@ About me: <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 📌Top Technologies:
 
-- Python intermediate level
-- Libraries: Sklearn, Pandas, Numpy, Matplotlib and Seaborn intermediate level.
 [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=55ff11)](#) [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=black&logo=R&logoColor=007acc)](#) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
